@@ -1,0 +1,22 @@
+{
+    "html-title": "otto Chrismas",
+
+    "header-stream": "Трансляция",
+
+    "timer--date": "11 декабря",
+    "timer--start": "начало в 18:00 по мск",
+    "timer-days": "дней",
+    "timer-hours": "часов",
+    "timer-minutes": "минут",
+    "timer-seconds": "секунд",
+
+    "meyou-iframe": "https://meyou.ru/webinar/promojan23?lang=ru",
+
+    "goUp": "Вернуться наверх",
+
+    "footer-cookies": "Сайт использует cookie.",
+    "footer-copyright": "© 2020 Все права защищены.",
+
+    "cookies--h1": "Сайт использует файлы cookie",
+    "cookies--text": "Продолжая пользоваться сайтом без изменения настроек веб-браузера Вы подтверждаете свое согласие с использованием файлов cookies и <a href='https://yandex.ru/legal/cookies_policy/'>политикой использования файлов cookies</a>."
+}
